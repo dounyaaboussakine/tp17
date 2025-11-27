@@ -1,0 +1,25 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Ali",
+      "salary": 9000,
+      "email": "ali@mail.com",
+      "hireDate": "2022-01-15"
+    },
+    {
+      "id": 2,
+      "name": "Kamal",
+      "salary": 22000,
+      "email": "kamal@mail.com",
+      "hireDate": "2021-05-10"
+    },
+    {
+      "id": 3,
+      "name": "Amal",
+      "salary": 23000,
+      "email": "amal@mail.com",
+      "hireDate": "2020-09-20"
+    }
+  ]
+}
